@@ -10,9 +10,9 @@
 
 
 
-
 .principal{
 
     background-image: url  (img/"background.png");
-
+    background-size: contain;
+background-repeat: no-repeat;
 }
