@@ -45,17 +45,20 @@
     display: grid;
     grid-template-columns: 50% 50%;
     
-
-
-
-
-
 }
 
-. .container--botao{
+ .container--botao{
 background-color:var(--botao-destataque)
 color:var(--corprincipal);
 padding: lem;
 border-radius:5px
+::-webkit-textfield-decoration:transparent;
+border:2px solid var( --cor-principal);
+
+}
+
+
+.container--caixa{
+    margin:0 6em;
 
 }
