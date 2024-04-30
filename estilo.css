@@ -36,3 +36,17 @@
     background-size: contain;
 background-repeat: no-repeat;
 }
+{
+background-color:var(--botao-destataque)
+color:var(--corprincipal);
+padding:lem;
+border-radius:5px
+
+
+
+
+
+
+
+
+}
