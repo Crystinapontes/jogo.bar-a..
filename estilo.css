@@ -36,17 +36,11 @@
     background-size: contain;
 background-repeat: no-repeat;
 }
-{
+
+. .container--botao{
 background-color:var(--botao-destataque)
 color:var(--corprincipal);
-padding:lem;
+padding: lem;
 border-radius:5px
-
-
-
-
-
-
-
 
 }
